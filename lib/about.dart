@@ -88,7 +88,7 @@ class _AboutState extends State<About> {
                   child: Text('REPOSITORY'),
                   onPressed: () {
                     launch(
-                      'https://github.com/rabbitlaman/cryptographyforlearn.git',
+                      'https://github.com/rabbitlaman/cryptography',
                       enableJavaScript: true,
                       forceWebView: false,
                       forceSafariVC: false
